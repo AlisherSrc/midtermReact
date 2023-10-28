@@ -1,0 +1,17 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+
+}
+.logo {
+  font-size: 2rem;
+  text-decoration: none;
+  color: brown;
+}
+
+.profile {
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+
+

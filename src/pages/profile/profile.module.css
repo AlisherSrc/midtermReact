@@ -1,0 +1,12 @@
+.profilePic{
+    flex: 1;
+}
+
+.profile{
+    display: flex;
+    gap: 10rem;
+}
+
+.userInfo{
+    flex:3;
+}
