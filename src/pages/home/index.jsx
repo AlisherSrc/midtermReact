@@ -18,7 +18,7 @@ const Home = () => {
     useEffect(() => {
         setPosts(posts);      
         
-    }, [posts])
+    }, [])
 
     const createPost = () =>{
         setPosts([...posts,{
